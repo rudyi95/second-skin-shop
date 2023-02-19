@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/second-skin-shop/static/css/main.073c9b0a.css",
+    "main.js": "/second-skin-shop/static/js/main.a1fe5dc9.js",
+    "static/media/homeBaner.png": "/second-skin-shop/static/media/homeBaner.3f05001ed6254ae5151d.png",
+    "static/media/userIcon.svg": "/second-skin-shop/static/media/userIcon.67cf644a6fab4b77455bd9851b44fa35.svg",
+    "static/media/basketIcon.svg": "/second-skin-shop/static/media/basketIcon.67b04d0c6f7d6d7510b06ede5999b2b2.svg",
+    "static/media/iconSearch.svg": "/second-skin-shop/static/media/iconSearch.0eb0b5d89061a106f4a04559d9346fcf.svg",
+    "index.html": "/second-skin-shop/index.html",
+    "main.073c9b0a.css.map": "/second-skin-shop/static/css/main.073c9b0a.css.map",
+    "main.a1fe5dc9.js.map": "/second-skin-shop/static/js/main.a1fe5dc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a1fe5dc9.js"
+  ]
+}
