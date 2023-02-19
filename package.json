@@ -1,17 +1,28 @@
 {
-  "name": "solomia-page",
+  "homepage": "http://rudyi95.github.io/second-skin-shop",
+  "name": "second-skin-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.9",
+    "@mui/material": "^5.11.9",
+    "@mui/styles": "^5.11.9",
+    "@types/jest": "^29.4.0",
+    "@types/node": "^18.14.0",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "classnames": "^2.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "typescript": "^4.9.5"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
